@@ -1,6 +1,7 @@
 This is a simple assignment to introduce students in CS 1001 FA 2020 to Github. Students should add their name below this one. For example,
 Malachi Tate 
 sharmin jahan
+Sean McLaughlin
 William Warner
 Greydon Randolph
 Luke Runnels
@@ -34,5 +35,4 @@ Aaron Renfro
 haley kelly
 William Phenicie
 Tulsano Wibisono
-
 
