@@ -2,3 +2,7 @@ This is a simple assignment to introduce students in CS 1001 FA 2020 to Github. 
 sharmin jahan
 Sharmin Jahan test
 Aaron Renfro
+haley kelly
+William Phenicie
+Tulsano Wibisono
+William Phenicie
