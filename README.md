@@ -39,6 +39,7 @@ Tulsano Wibisono
 Dawson Jones
 Jayaike Ndu
 Julian Abhari
+Nate Alfonsin
 Cole Hoffman
 Rodger Phillips
 Jasmin Love
@@ -57,6 +58,7 @@ Ted Barnaby
 Noah Lopez
 Ian Kirkland
 Colby Hayes
+
 
 
 
