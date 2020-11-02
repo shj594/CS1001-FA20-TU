@@ -37,6 +37,7 @@ haley kelly
 William Phenicie
 Tulsano Wibisono
 Dawson Jones
+Jayaike Ndu
 Julian Abhari
 Camp Steiner
 Alec Howard
@@ -47,6 +48,4 @@ Ted Barnaby
 Noah Lopez
 Ian Kirkland
 Colby Hayes
-
-
 
