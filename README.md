@@ -39,6 +39,7 @@ Tulsano Wibisono
 Dawson Jones
 Jayaike Ndu
 Julian Abhari
+Erika Brock
 Zack Mattie
 Nate Alfonsin
 Cole Hoffman
@@ -59,6 +60,7 @@ Ted Barnaby
 Noah Lopez
 Ian Kirkland
 Colby Hayes
+
 
 
 
