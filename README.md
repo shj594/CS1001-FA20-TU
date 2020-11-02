@@ -1,6 +1,7 @@
 This is a simple assignment to introduce students in CS 1001 FA 2020 to Github. Students should add their name below this one. For example,
 Malachi Tate 
 sharmin jahan
+Krieger
 Sean McLaughlin
 William Warner
 Greydon Randolph
@@ -17,7 +18,7 @@ Ryan Thomason
 Alex Jenkins
 Madison Fischer 
 Devan Everette 
-,zhenhang luo
+zhenhang luo
 Hunter Hogner
 Vraj Modi
 Jacob Sharp
@@ -36,5 +37,15 @@ haley kelly
 William Phenicie
 Tulsano Wibisono
 Dawson Jones
-Julian Abhari,
 Jayaike Ndu
+Julian Abhari
+Camp Steiner
+Alec Howard
+Ben Jenkins
+Riahn Morton
+Anupam Terkonda
+Ted Barnaby
+Noah Lopez
+Ian Kirkland
+Colby Hayes
+
