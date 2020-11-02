@@ -39,6 +39,7 @@ Tulsano Wibisono
 Dawson Jones
 Jayaike Ndu
 Julian Abhari
+Trinity Fulton
 Joseph Breckon
 Luke Severs
 Valerie Melland
@@ -52,5 +53,4 @@ Ted Barnaby
 Noah Lopez
 Ian Kirkland
 Colby Hayes
-
 
