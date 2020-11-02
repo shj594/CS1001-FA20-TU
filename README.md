@@ -17,7 +17,7 @@ Ryan Thomason
 Alex Jenkins
 Madison Fischer 
 Devan Everette 
-,zhenhang luo
+zhenhang luo
 Hunter Hogner
 Vraj Modi
 Jacob Sharp
@@ -38,3 +38,6 @@ Tulsano Wibisono
 Dawson Jones
 Julian Abhari
 Noah Lopez
+Ian Kirkland
+Colby Hayes
+
