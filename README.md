@@ -40,6 +40,7 @@ Dawson Jones
 Jayaike Ndu
 Julian Abhari
 Jeremiah Underwood
+Erika Brock
 Zack Mattie
 Nate Alfonsin
 Cole Hoffman
